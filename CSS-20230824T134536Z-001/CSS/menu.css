@@ -1,0 +1,63 @@
+body{
+    background-color:black;
+    color: #c17007;
+    margin: 0;
+    padding: 0;
+}
+
+.im1{
+    margin-top:0.6rem;
+    float: left;
+    width: 100%;
+    height: 100%
+}
+
+.im3{
+    margin-top:0.6rem;
+    width: 40%;
+    height: 40%;
+    margin-left:25%;
+}
+
+
+.d1{
+    height: 80%;
+}
+
+
+.p1{
+    margin-top: 8%;
+    font-size:larger;
+    text-align: justify;
+}
+
+
+.row{
+    background-color: black;
+}
+
+
+.d1:hover{
+    background-color: #f6d4a7;
+}
+
+.bt{
+    background-color: #c17007;
+    margin-left: 40%;
+}
+
+.bt:hover{
+    background-image: linear-gradient(#c17007,white);
+    transform: scale(1.2);
+}
+
+.container-fluid ul{
+    list-style-type: none;
+    justify-content: center;
+}
+
+.reviews .container-fluid .stars i{
+    margin-top:0.3rem;
+    font-size:2rem;
+    color: #fff;
+}
